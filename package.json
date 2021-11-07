@@ -1,0 +1,27 @@
+{
+  "name": "byron-bot",
+  "version": "1.0.0",
+  "description": "Discord Bot For Community Byron Family, https://www.youtube.com/user/TheByronGm",
+  "main": "src/Bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JVOPINHO/ByronBot.git"
+  },
+  "author": "JVOPINHO",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/JVOPINHO/ByronBot/issues"
+  },
+  "homepage": "https://github.com/JVOPINHO/ByronBot#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "discord.js": "^13.3.1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "js-yaml": "^4.1.0",
+    "sydb": "^1.0.1"
+  }
+}
